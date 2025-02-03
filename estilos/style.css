@@ -44,20 +44,14 @@ h1 {
     text-align: center;
 }
 
-#email {
+.campo {
     background-color: #5F2C82;
     display: inline-block;
     padding: 2px;
     margin: 5px;
 }
 
-#senha {
-    background-color: #5F2C82;
-    display: inline-block;
-    padding: 2px;
-    margin: 5px;
 
-}
 
 section#login > div#imagem {
     display: block;
